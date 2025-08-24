@@ -34,6 +34,7 @@
 📚 **[Explore the FastAPI Cookbook](https://a.co/d/8z2Thwm)**
 
 **What you'll find:**
+<div align="right">
 - 🏗️ Project structure and architecture patterns
 - 🔐 Authentication and authorization strategies  
 - 📊 Database integration with SQLAlchemy & Pydantic
@@ -41,7 +42,7 @@
 - 🧪 Testing methodologies and examples
 - 🐳 Docker containerization recipes
 - ☁️ Cloud deployment guides
-
+</div>
 </div>
 
 ---
