@@ -1,21 +1,134 @@
-<h1 align="center">Hi 👋, I'm Giunio</h1>
-<h3 align="center">Software engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giunio-prc&label=Profile%20views&color=0e75b6&style=flat" alt="giunio-prc" /> </p>
+# 🚀 Giunio De Luca
+### Software Engineer & Backend Developer
 
-- 📫 How to reach me **giuniodl@live.it**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=giunio-prc&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/giunio-prc?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+</p>
 
-### Blogs posts
+---
+
+### 💻 About Me
+
+🎯 **Passionate Backend Developer** with expertise in **Python**, **FastAPI**, and **Cloud Technologies**  
+🌱 Currently exploring **microservices architecture** and **DevOps practices**  
+🤝 Open to collaborate on **API development** and **scalable backend solutions**  
+📫 Reach me at **giuniodl@live.it**
+
+</div>
+
+---
+
+## 📖 FastAPI Cookbook
+
+<div align="center">
+
+<img src="./fastapi-cookbook-banner.jpg" alt="FastAPI Cookbook" width="600" />
+
+### 🍳 Recipes for Building Modern APIs
+
+*A comprehensive collection of patterns, best practices, and real-world examples for FastAPI development*
+
+📚 **[Explore the FastAPI Cookbook](https://a.co/d/8z2Thwm)**
+
+**What you'll find:**
+- 🏗️ Project structure and architecture patterns
+- 🔐 Authentication and authorization strategies  
+- 📊 Database integration with SQLAlchemy & Pydantic
+- 🚀 Performance optimization techniques
+- 🧪 Testing methodologies and examples
+- 🐳 Docker containerization recipes
+- ☁️ Cloud deployment guides
+
+</div>
+
+---
+
+## 💝 Support My Work
+
+<div align="center">
+
+If my projects have helped you, consider supporting my open source work!
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge)](https://github.com/sponsors/giunio-prc)
+
+*Your support helps me dedicate more time to creating useful tools and resources for the developer community.*
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giunio-de-luca)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuniodl@live.it)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=white)
+
+### Databases & Tools  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=giunio-prc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giunio-prc&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=giunio-prc&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/giunio-de-luca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giunio-de-luca" height="30" width="40" /></a>
-</p>
+*Stay tuned for upcoming articles on FastAPI, Python best practices, and backend architecture!*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giunio-prc&show_icons=true&locale=en" alt="giunio-prc" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giunio-prc&show_icons=true&locale=en" alt="giunio-prc" /></p>
+<div align="center">
+
+### 🎯 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+
+</div>
