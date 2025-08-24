@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Giunio De Luca
-### Software Engineer & Backend Developer
+### Software Architect | Tech Lead | Backend Engineer
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=giunio-prc&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -34,15 +34,12 @@
 📚 **[Explore the FastAPI Cookbook](https://a.co/d/8z2Thwm)**
 
 **What you'll find:**
-<div align="right">
-- 🏗️ Project structure and architecture patterns
-- 🔐 Authentication and authorization strategies  
-- 📊 Database integration with SQLAlchemy & Pydantic
-- 🚀 Performance optimization techniques
-- 🧪 Testing methodologies and examples
-- 🐳 Docker containerization recipes
-- ☁️ Cloud deployment guides
-</div>
+ 🏗️ Project structure and architecture patterns
+ 🔐 Authentication and authorization strategies  
+ 📊 Database integration with SQLAlchemy & Pydantic
+ 🚀 Performance optimization techniques
+ 🧪 Testing methodologies and examples
+ ☁️ Cloud deployment guides
 </div>
 
 ---
@@ -65,6 +62,7 @@ If my projects have helped you, consider supporting my open source work!
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://giunio.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giunio-de-luca)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuniodl@live.it)
 
@@ -122,7 +120,7 @@ If my projects have helped you, consider supporting my open source work!
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-*Stay tuned for upcoming articles on FastAPI, Python best practices, and backend architecture!*
+*Stay tuned for upcoming articles on FastAPI, Python best practices, and architectural design tips!*
 
 ---
 
