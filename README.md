@@ -109,18 +109,9 @@ If my projects have helped you, consider supporting my open source work!
 <div align="center">
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=giunio-prc&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=giunio-prc)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*Stay tuned for upcoming articles on FastAPI, Python best practices, and architectural design tips!*
 
 ---
 
