@@ -106,13 +106,6 @@ If my projects have helped you, consider supporting my open source work!
 
 </div>
 
-<div align="center">
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=giunio-prc)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 ---
 
 <div align="center">
