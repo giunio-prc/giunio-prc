@@ -77,8 +77,8 @@ If my projects have helped you, consider supporting my open source work!
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=Javascript&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=Typescript&logoColor=61DAFB).
 
 ### Databases & Tools  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
