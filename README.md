@@ -15,7 +15,7 @@
 🎯 **Passionate Backend Developer** with expertise in **Python**, **FastAPI**, and **Cloud Technologies**  
 🌱 Currently exploring **microservices architecture** and **DevOps practices**  
 🤝 Open to collaborate on **API development** and **scalable backend solutions**  
-📫 Reach me at **giuniodl@live.it**
+📫 Reach me at **giunio@avenueit.be**
 
 </div>
 
@@ -64,7 +64,7 @@ If my projects have helped you, consider supporting my open source work!
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://giunio.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giunio-de-luca)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuniodl@live.it)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giunio@avenueit.be)
 
 </div>
 
